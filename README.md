@@ -1,6 +1,6 @@
-#Hola mi nombre es Roxana
+# Hola mi nombre es Roxana
 
 ## Formación
-*Python
-*Java
-*Javascript
+* Python
+* Java
+* Javascript
